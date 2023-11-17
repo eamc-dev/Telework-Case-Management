@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Apply for Telework">38f9f6cfd51eb1107f44c40407b40b0d</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 02:08:37</sys_created_on>
+        <sys_id>18cd7a87d55eb1107f44c40407b40bdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apply for Telework.Any User</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_18cd7a87d55eb1107f44c40407b40bdd</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 02:08:37</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

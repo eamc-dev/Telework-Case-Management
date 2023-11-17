@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Arrangement">5773b687d51eb1107f44c40407b40b9d</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 01:24:23</sys_created_on>
+        <sys_id>98a33e87d51eb1107f44c40407b40b8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Telework Case Data Mapping_etl_ihub">fa73b287d51eb1107f44c40407b40bb1</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">dca33e87d51eb1107f44c40407b40b68</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_98a33e87d51eb1107f44c40407b40b8a</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 01:24:23</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Arrangement_sn_ihub_target_arrangement">84a3fa87d51eb1107f44c40407b40bb4</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

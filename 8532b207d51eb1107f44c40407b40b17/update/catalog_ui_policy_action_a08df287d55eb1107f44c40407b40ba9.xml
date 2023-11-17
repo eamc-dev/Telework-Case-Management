@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Apply for Telework">38f9f6cfd51eb1107f44c40407b40b0d</catalog_item>
+        <catalog_variable>IO:fbdc3647d55eb1107f44c40407b40b42</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 02:07:32</sys_created_on>
+        <sys_id>a08df287d55eb1107f44c40407b40ba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>days_per_week</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_a08df287d55eb1107f44c40407b40ba9</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 02:07:32</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'days_per_week' mandatory &amp; visible depending on 'arrangement'">317db287d55eb1107f44c40407b40ba0</ui_policy>
+        <variable>days_per_week</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

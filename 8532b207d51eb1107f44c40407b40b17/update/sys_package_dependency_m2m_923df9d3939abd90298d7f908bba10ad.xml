@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">c88e21f3932131103c633eccebba1057</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 01:21:38</sys_created_on>
+        <sys_id>923df9d3939abd90298d7f908bba10ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 01:21:38</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

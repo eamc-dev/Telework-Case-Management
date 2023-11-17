@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ada37e87d51eb1107f44c40407b40be2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_teleworkdone_telework_case">
+    <x_snc_teleworkdone_telework_case action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <arrangement display_value="Regular and Recurring Telework">6d237a47d51eb1107f44c40407b40b41</arrangement>
+        <assigned_to display_value="Jewel Agresta">02826bf03710200044e0bfc8bcbe5d64</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <days_per_week>1</days_per_week>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Naomi Greenly requests 1 days of Regular and Recurring Telework for the reason: Reasonable Accommodation</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <justification display_value="Reasonable Accommodation">85437e47d51eb1107f44c40407b40b8c</justification>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TEL0001038</number>
+        <opened_at>2023-07-29 23:50:37</opened_at>
+        <opened_by display_value="Naomi Greenly">0382abf03710200044e0bfc8bcbe5d42</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Regular and Recurring Telework Request</short_description>
+        <sla_due/>
+        <state>2</state>
+        <sys_class_name>x_snc_teleworkdone_telework_case</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 01:24:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ada37e87d51eb1107f44c40407b40be2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 01:24:28</sys_updated_on>
+        <task_effective_number>TEL0001038</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_teleworkdone_telework_case>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2023-11-09 02:49:50</sys_created_on>
+        <sys_id>403783c3d59eb1107f44c40407b40bbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEL0001038</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_metadata_link_403783c3d59eb1107f44c40407b40bbf</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2023-11-09 02:49:50</sys_updated_on>
+        <tablename>x_snc_teleworkdone_telework_case</tablename>
+    </sys_metadata_link>
+</record_update>

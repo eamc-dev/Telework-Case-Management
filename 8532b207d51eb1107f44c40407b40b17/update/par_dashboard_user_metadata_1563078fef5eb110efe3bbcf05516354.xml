@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Amanda Wilson">531738f1471ef11057ad477d416d4372</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="Telework Case Management">1163078f2e5eb110dd56dbeadae8f855</dashboard>
+        <last_updated_on>2023-11-09 02:40:18</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 02:33:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1563078fef5eb110efe3bbcf05516354</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_1563078fef5eb110efe3bbcf05516354</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 02:40:18</sys_updated_on>
+        <updated_by_user display_value="Amanda Wilson">531738f1471ef11057ad477d416d4372</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

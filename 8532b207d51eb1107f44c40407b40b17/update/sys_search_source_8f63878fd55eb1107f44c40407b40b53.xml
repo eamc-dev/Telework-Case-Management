@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_teleworkdone_arrangement">active=true</condition>
+        <group/>
+        <name>Telework Case Management - x_snc_teleworkdone_arra</name>
+        <roles/>
+        <source_table>x_snc_teleworkdone_arrangement</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 02:33:23</sys_created_on>
+        <sys_id>8f63878fd55eb1107f44c40407b40b53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Case Management - x_snc_teleworkdone_arrangem</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_search_source_8f63878fd55eb1107f44c40407b40b53</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 02:33:23</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f63878fd55eb1107f44c40407b40b53"/>
+</record_update>
