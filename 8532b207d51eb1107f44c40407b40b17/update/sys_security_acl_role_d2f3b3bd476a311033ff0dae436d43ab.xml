@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:08:48</sys_created_on>
+        <sys_id>d2f3b3bd476a311033ff0dae436d43ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_teleworkdone_telework_case.x_snc_teleworkdone.Fulfiller_Development</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_security_acl display_value="x_snc_teleworkdone_telework_case">9af3b3bd476a311033ff0dae436d43a8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d2f3b3bd476a311033ff0dae436d43ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:08:48</sys_updated_on>
+        <sys_user_role display_value="x_snc_teleworkdone.Fulfiller_Development" name="x_snc_teleworkdone.Fulfiller_Development">5af3b3bd476a311033ff0dae436d4353</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

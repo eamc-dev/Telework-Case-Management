@@ -14,5 +14,6 @@
         <sys_updated_by>amanda</sys_updated_by>
         <sys_updated_on>2023-11-09 01:22:25</sys_updated_on>
         <sys_user_role display_value="x_snc_teleworkdone.admin" name="x_snc_teleworkdone.admin">a532b207d51eb1107f44c40407b40bc4</sys_user_role>
+        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

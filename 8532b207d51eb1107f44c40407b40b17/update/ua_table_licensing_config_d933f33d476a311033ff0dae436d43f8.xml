@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_snc_teleworkdone_justfication</name>
+        <name>x_snc_teleworkdone_ihub_import_aa73f247d51eb1107f44c40407b40b2b</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>amanda</sys_created_by>
-        <sys_created_on>2023-11-09 01:22:46</sys_created_on>
-        <sys_id>6e3df9d3939abd90298d7f908bba10e0</sys_id>
+        <sys_created_on>2023-11-09 01:24:25</sys_created_on>
+        <sys_id>d933f33d476a311033ff0dae436d43f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_teleworkdone_justfication</sys_name>
+        <sys_name>x_snc_teleworkdone_ihub_import_aa73f247d51eb1107f44c40407b40b2b</sys_name>
         <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
         <sys_policy/>
         <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
-        <sys_update_name>ua_table_licensing_config_6e3df9d3939abd90298d7f908bba10e0</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_d933f33d476a311033ff0dae436d43f8</sys_update_name>
         <sys_updated_by>amanda</sys_updated_by>
-        <sys_updated_on>2023-11-09 01:22:46</sys_updated_on>
+        <sys_updated_on>2023-11-09 01:24:25</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

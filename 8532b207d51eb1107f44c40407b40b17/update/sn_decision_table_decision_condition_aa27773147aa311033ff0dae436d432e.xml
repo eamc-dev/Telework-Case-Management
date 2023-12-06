@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="Arrangement">4627f7b147aa311033ff0dae436d4358</decision_input>
+        <decision_table display_value="Telework Auto Approval">37a577bd476a311033ff0dae436d439a</decision_table>
+        <default_operator>=</default_operator>
+        <description>Type of Arrangement</description>
+        <field/>
+        <field_label/>
+        <field_parent_table/>
+        <label>Arrangement</label>
+        <order>100</order>
+        <parent/>
+        <reference display_value="Arrangement" name="x_snc_teleworkdone_arrangement">8d233a47d51eb1107f44c40407b40b81</reference>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:22:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>aa27773147aa311033ff0dae436d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_aa27773147aa311033ff0dae436d432e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:22:44</sys_updated_on>
+        <type display_value="Reference">52a227c1bf3320001875647fcf07396a</type>
+    </sn_decision_table_decision_condition>
+</record_update>

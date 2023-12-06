@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Apply for Telework">38f9f6cfd51eb1107f44c40407b40b0d</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>amanda</sys_created_by>
+        <sys_created_on>2023-11-09 01:52:57</sys_created_on>
+        <sys_id>f22abacfd51eb1107f44c40407b40bad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Apply for Telework</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>io_set_item_f22abacfd51eb1107f44c40407b40bad</sys_update_name>
+        <sys_updated_by>amanda</sys_updated_by>
+        <sys_updated_on>2023-11-09 01:52:57</sys_updated_on>
+        <variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</application>
+        <file_path/>
+        <instance_id>593a05e9dbd16d1037a0c59705961977</instance_id>
+        <instance_name>dev157339</instance_name>
+        <name>io_set_item_f22abacfd51eb1107f44c40407b40bad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Apply for Telework">38f9f6cfd51eb1107f44c40407b40b0d</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>amanda</sys_created_by><sys_created_on>2023-11-09 01:52:57</sys_created_on><sys_id>f22abacfd51eb1107f44c40407b40bad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Standard Employee Questions.Apply for Telework</sys_name><sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package><sys_policy/><sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope><sys_update_name>io_set_item_f22abacfd51eb1107f44c40407b40bad</sys_update_name><sys_updated_by>amanda</sys_updated_by><sys_updated_on>2023-11-09 01:52:57</sys_updated_on><variable_set display_value="Standard Employee Questions">e01cab1a4f334200086eeed18110c71f</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1846214572</payload_hash>
+        <record_name>Standard Employee Questions.Apply for Telework</record_name>
+        <reverted_from/>
+        <source>3b23733d476a311033ff0dae436d437c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:05:29</sys_created_on>
+        <sys_id>3933373d476a311033ff0dae436d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bdeac81a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:05:29</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>9b3d31171c9abd90806865ae667edef2</update_guid>
+        <update_guid_history>9b3d31171c9abd90806865ae667edef2:1846214572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Standard Employee Questions.Apply for Telework">772d063e47a2311033ff0dae436d43c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 14:13:38</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>ae0afdf2060e48d79eb29020aea3d871</sys_id>
+        <sys_metadata>f22abacfd51eb1107f44c40407b40bad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Employee Questions.Apply for Telework</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_scope_delete display_value="">5a396b4474fa4dd8a969a3bce0b6b840</sys_scope_delete>
+        <sys_update_name>io_set_item_f22abacfd51eb1107f44c40407b40bad</sys_update_name>
+        <sys_update_version display_value="io_set_item_f22abacfd51eb1107f44c40407b40bad">3933373d476a311033ff0dae436d43cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 14:13:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

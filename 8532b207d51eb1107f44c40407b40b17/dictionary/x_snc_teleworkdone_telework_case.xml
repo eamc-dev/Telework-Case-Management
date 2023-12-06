@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e063b287d51eb1107f44c40407b40b4a" extends="task" label="Telework Case" max_length="40" name="x_snc_teleworkdone_telework_case" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Arrangement" max_length="32" name="arrangement" reference="x_snc_teleworkdone_arrangement" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Days per week" max_length="40" name="days_per_week" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Justification" max_length="32" name="justification" reference="x_snc_teleworkdone_justfication" type="reference"/>
+        <element label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>

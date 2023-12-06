@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_teleworkdone.Fulfiller_Customer_Support" name="x_snc_teleworkdone.Fulfiller_Customer_Support">8d1477bd476a311033ff0dae436d4375</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:09:15</sys_created_on>
+        <sys_id>cd1477bd476a311033ff0dae436d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8d1477bd476a311033ff0dae436d4375</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cd1477bd476a311033ff0dae436d4376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:09:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -17,7 +17,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">0f1fa93b932131103c633eccebba100d</super_class>
+        <super_class display_value="Task" name="task">149b8828d9313110cedf7dffddb48f0d</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>amanda</sys_created_by>
         <sys_created_on>2023-11-09 01:23:18</sys_created_on>

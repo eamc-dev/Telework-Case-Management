@@ -47,14 +47,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>amanda</sys_created_by>
         <sys_created_on>2023-11-09 01:22:45</sys_created_on>
-        <sys_id>e0437e47d51eb1107f44c40407b40b9a</sys_id>
         <sys_name>x_snc_teleworkdone_justfication</sys_name>
         <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
         <sys_policy/>
         <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_teleworkdone_justfication_null</sys_update_name>
-        <sys_updated_by>amanda</sys_updated_by>
-        <sys_updated_on>2023-11-09 01:22:45</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-18 11:10:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

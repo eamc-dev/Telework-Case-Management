@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f6273f3147aa311033ff0dae436d434f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>a227bbb147aa311033ff0dae436d4326</answer>
+        <condition table="var__m_sys_decision_input_37a577bd476a311033ff0dae436d439a">u_arrangement=ed2e799793dabd90298d7f908bba10df^u_number_of_days&lt;=3^EQ<item display_table="x_snc_teleworkdone_arrangement" display_value="Situational Telework" endquery="false" field="u_arrangement" goto="false" newquery="false" operator="=" or="false" value="ed2e799793dabd90298d7f908bba10df"/>
+            <item endquery="false" field="u_number_of_days" goto="false" newquery="false" operator="&lt;=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Telework Auto Approval">37a577bd476a311033ff0dae436d439a</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_37a577bd476a311033ff0dae436d439a</input_table>
+        <label>Telework Auto Approval_100</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:22:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6273f3147aa311033ff0dae436d434f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Auto Approval_100</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_decision_question_f6273f3147aa311033ff0dae436d434f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:22:45</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 19:22:45</sys_created_on>
+        <sys_id>7e273f3147aa311033ff0dae436d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Auto Approval_100</sys_name>
+        <sys_package display_value="Telework Case Management" source="x_snc_telework_c_0">8532b207d51eb1107f44c40407b40b17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management">8532b207d51eb1107f44c40407b40b17</sys_scope>
+        <sys_update_name>sys_metadata_link_7e273f3147aa311033ff0dae436d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 19:22:45</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>

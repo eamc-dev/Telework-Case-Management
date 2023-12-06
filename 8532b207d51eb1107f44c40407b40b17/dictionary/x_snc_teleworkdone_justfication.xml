@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a0437e47d51eb1107f44c40407b40b97" label="Justfication" max_length="40" name="x_snc_teleworkdone_justfication" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Justification" max_length="40" name="justification" type="string"/>
+    </element>
+</database>
